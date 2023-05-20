@@ -6,3 +6,7 @@ body {
   -webkit-font-smoothing: antialised;
   text-rendering: optimizeLegibility;
 }
+
+::-webkit-scrollbar {
+  width: 4px;
+}
